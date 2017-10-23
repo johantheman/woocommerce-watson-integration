@@ -7,3 +7,5 @@ Version: 0
 Author: Johan Erasmus
 Author URI: http://www.webis.co.za
 */
+
+$this = 1;
